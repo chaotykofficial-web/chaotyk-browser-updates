@@ -2,15 +2,15 @@
 // @name         Chaotyk Browser App Updates
 // @namespace    https://chaotyk.local/browser-updates
 // @version      3.0.1
-// @updateURL     https://tamarin.aces.amazon.dev/scripts/chaotyk-browser-app-updates/install.user.js
-// @downloadURL   https://tamarin.aces.amazon.dev/scripts/chaotyk-browser-app-updates/install.user.js
+// @updateURL     https://chaotykofficial-web.github.io/chaotyk-browser-updates/app-update.txt
+// @downloadURL   https://chaotykofficial-web.github.io/chaotyk-browser-updates/app-update.txt
 // @description  Release information read by the native Chaotyk Browser updater
 // @match        https://learn.amazon.com/*
 // @grant        none
 // ==/UserScript==
 
 // Current version: 3.0.1
-// Update link: https://drive.google.com/file/d/1VwkrzpjoWhArj9QoHOm3nzLCqxHdTPaa/view?usp=drive_link
+// Update link: https://github.com/chaotykofficial-web/chaotyk-browser-updates/releases/download/v3.0.1/Chaotyk-Browser-3.0.1.apk
 // Release notes: Testing Stable release with native app updates.
 
 // The APK reads the three lines above as data; it does not execute this file.

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chaotyk Browser App Updates
 // @namespace    https://chaotyk.local/browser-updates
-// @version      3.0.1
+// @version      3.1.0
 // @updateURL     https://chaotykofficial-web.github.io/chaotyk-browser-updates/app-update.txt
 // @downloadURL   https://chaotykofficial-web.github.io/chaotyk-browser-updates/app-update.txt
 // @description  Release information read by the native Chaotyk Browser updater
@@ -9,9 +9,9 @@
 // @grant        none
 // ==/UserScript==
 
-// Current version: 3.0.1
-// Update link: https://github.com/chaotykofficial-web/chaotyk-browser-updates/releases/download/v3.0.1/Chaotyk-Browser-3.0.1.apk
-// Release notes: Testing Stable release with native app updates.
+// Current version: 3.1.0
+// Update link: https://github.com/chaotykofficial-web/chaotyk-browser-updates/releases/download/v3.1.0/Chaotyk-Browser-3.1.0.apk
+// Release notes: Tablet Arcade with 15 touch-adapted games and red launcher; bookmark Set as home. Ready for tablet testing.
 
 // The APK reads the three lines above as data; it does not execute this file.
 void 0;

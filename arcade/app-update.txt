@@ -1,3 +1,3 @@
-// Current version: 1.0.0
-// Update link: https://raw.githubusercontent.com/chaotykofficial-web/chaotyk-browser-updates/main/arcade/Chaotyk-Arcade-1.0.0.apk
-// Release notes: First standalone Arcade release: 18 offline games, tablet controls, local scores, and native app updates.
+// Current version: 1.0.1
+// Update link: https://raw.githubusercontent.com/chaotykofficial-web/chaotyk-browser-updates/main/arcade/Chaotyk-Arcade-1.0.1.apk
+// Release notes: Update test: a lime UPDATE TEST checkmark now appears beside v1.0.1 under the Arcade title. Games and saved data are unchanged.

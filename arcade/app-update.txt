@@ -1,3 +1,3 @@
-// Current version: 1.1.0
-// Update link: https://raw.githubusercontent.com/chaotykofficial-web/chaotyk-browser-updates/main/arcade/Chaotyk-Arcade-1.1.0.apk
-// Release notes: New lime-green dragon branding and launcher icon, black-and-lime interface, and a large transparent 3.5-second startup splash. Update-test label removed; game rules and saved data unchanged.
+// Current version: 1.1.1
+// Update link: https://raw.githubusercontent.com/chaotykofficial-web/chaotyk-browser-updates/main/arcade/Chaotyk-Arcade-1.1.1.apk
+// Release notes: Larger home-screen launcher icon; fixes phone-size game menus, modal panels and layouts, including Layup Launch and Solitaire. Transparent startup splash retained.
